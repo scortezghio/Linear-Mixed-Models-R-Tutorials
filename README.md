@@ -1,4 +1,4 @@
-# Linear-Mixed-Models-R-Tutorials
+# Linear-Models-R-Tutorials
 Learn how to run linear mixed models with R!
 
 Here I post different tutorials on how to fit linear models with R.
